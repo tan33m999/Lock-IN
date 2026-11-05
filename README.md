@@ -7,9 +7,9 @@
 
 <br/>
 
-[![Download LOCK IN APK](https://img.shields.io/badge/⬇_Download_Main_App-LOCK--IN.apk-4F46E5?style=for-the-badge&logo=android&logoColor=white)](./LOCK-IN.apk)
+[![Download LOCK IN APK](https://img.shields.io/badge/⬇_Download_Main_App-LOCK--IN.apk-4F46E5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/tan33m999/Lock-IN/releases/tag/APK)
 &nbsp;&nbsp;
-[![Download Guardian APK](https://img.shields.io/badge/⬇_Download_Guardian_App-LOCK--IN--Guardian.apk-10B981?style=for-the-badge&logo=android&logoColor=white)](./LOCK-IN-Guardian.apk)
+[![Download Guardian APK](https://img.shields.io/badge/⬇_Download_Guardian_App-LOCK--IN--Guardian.apk-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/tan33m999/Lock-IN/releases/tag/APK)
 
 <br/>
 
@@ -67,8 +67,8 @@
 
 | অ্যাপের নাম | কার ফোনে ইনস্টল করবেন? | ডাউনলোড লিংক | ফোল্ডার |
 | :--- | :--- | :---: | :---: |
-| **🔒 LOCK IN (Main App)** | যে ফোনে ফোকাস লক ও অ্যাপ ব্লকিং চালু রাখতে চান | [**⬇ Download LOCK-IN.apk**](./LOCK-IN.apk) | [`main-app/`](./main-app) |
-| **🛡️ LOCK IN Guardian** | যিনি আপনার লক নিয়ন্ত্রণ করবেন (অভিভাবক / বন্ধু / পার্টনার) | [**⬇ Download LOCK-IN-Guardian.apk**](./LOCK-IN-Guardian.apk) | [`guardian-app/`](./guardian-app) |
+| **🔒 LOCK IN (Main App)** | যে ফোনে ফোকাস লক ও অ্যাপ ব্লকিং চালু রাখতে চান | [**⬇ Download LOCK-IN.apk**](https://github.com/tan33m999/Lock-IN/releases/tag/APK) | [`main-app/`](./main-app) |
+| **🛡️ LOCK IN Guardian** | যিনি আপনার লক নিয়ন্ত্রণ করবেন (অভিভাবক / বন্ধু / পার্টনার) | [**⬇ Download LOCK-IN-Guardian.apk**](./LOCK-IN-Guardian.apk) | [`guardian-app/`](https://github.com/tan33m999/Lock-IN/releases/tag/APK) |
 
 ---
 
