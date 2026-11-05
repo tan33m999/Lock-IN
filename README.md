@@ -70,6 +70,8 @@
 | **🔒 LOCK IN (Main App)** | যে ফোনে ফোকাস লক ও অ্যাপ ব্লকিং চালু রাখতে চান | [**⬇ Download LOCK-IN.apk**](./LOCK-IN.apk) | [`main-app/`](./main-app) |
 | **🛡️ LOCK IN Guardian** | যিনি আপনার লক নিয়ন্ত্রণ করবেন (অভিভাবক / বন্ধু / পার্টনার) | [**⬇ Download LOCK-IN-Guardian.apk**](./LOCK-IN-Guardian.apk) | [`guardian-app/`](./guardian-app) |
 
+---
+
 ### গিটহাব থেকে ডাউনলোড এর নিয়ম
 ১. উপরের ডাউনলোড লিংকে ক্লিক করুন
 ২. যে পেইজ আসবে সেখানে থাকা Three Dot এ ক্লিক করুন
