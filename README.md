@@ -68,7 +68,7 @@
 | অ্যাপের নাম | কার ফোনে ইনস্টল করবেন? | ডাউনলোড লিংক | ফোল্ডার |
 | :--- | :--- | :---: | :---: |
 | **🔒 LOCK IN (Main App)** | যে ফোনে ফোকাস লক ও অ্যাপ ব্লকিং চালু রাখতে চান | [**⬇ Download LOCK-IN.apk**](https://github.com/tan33m999/Lock-IN/releases/tag/APK) | [`main-app/`](./main-app) |
-| **🛡️ LOCK IN Guardian** | যিনি আপনার লক নিয়ন্ত্রণ করবেন (অভিভাবক / বন্ধু / পার্টনার) | [**⬇ Download LOCK-IN-Guardian.apk**](./LOCK-IN-Guardian.apk) | [`guardian-app/`](https://github.com/tan33m999/Lock-IN/releases/tag/APK) |
+| **🛡️ LOCK IN Guardian** | যিনি আপনার লক নিয়ন্ত্রণ করবেন (অভিভাবক / বন্ধু / পার্টনার) | [**⬇ Download LOCK-IN-Guardian.apk**](https://github.com/tan33m999/Lock-IN/releases/tag/APK) | [`guardian-app/`](https://github.com/tan33m999/Lock-IN/releases/tag/APK) |
 
 ---
 
