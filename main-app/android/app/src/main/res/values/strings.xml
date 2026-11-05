@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOCK IN</string>
+    <string name="acc_desc">LOCK IN Focus Session App Blocker</string>
+    <string name="admin_desc">Prevents uninstalling LOCK IN during an active focus session.</string>
+</resources>

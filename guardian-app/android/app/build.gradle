@@ -1,0 +1,39 @@
+plugins {
+    id("com.android.application")
+}
+
+android {
+    namespace = "com.raft.guardian"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.raft.guardian"
+        minSdk = 24
+        targetSdk = 33
+        versionCode = 30
+        versionName = "3.0"
+    }
+
+    signingConfigs {
+        getByName("debug") {
+            enableV1Signing = true
+            enableV2Signing = true
+            enableV3Signing = true
+        }
+    }
+
+    buildTypes {
+        release {
+            isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("debug")
+        }
+        debug {
+            signingConfig = signingConfigs.getByName("debug")
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
+}

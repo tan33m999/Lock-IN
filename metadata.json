@@ -1,0 +1,8 @@
+{
+  "name": "RAFT — Offline Hard-Lock & Guardian Authenticator",
+  "description": "100% offline anti-social-media phone bricking system with strict 1x 5-minute emergency pass, Device Admin anti-tamper protection, and voice-call challenge-response Guardian unlock codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
